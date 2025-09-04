@@ -1,11 +1,7 @@
 [
   {
     "hreflang": "ar-AE",
-    "href": "https://www.tumi.ae/ar/collections/golf-collection"
-  },
-  {
-    "hreflang": "ar-KW",
-    "href": "https://www.tumi.com.kw/ar/collections/golf-collection"
+    "href": "https://www.tumi.ae/ar/collections/golf"
   },
   {
     "hreflang": "ar-SA",
@@ -17,7 +13,7 @@
   { "hreflang": "de-LU", "href": "https://lu.tumi.com/de/taschen/tumi-sport/" },
   {
     "hreflang": "en-AE",
-    "href": "https://www.tumi.ae/collections/golf-collection"
+    "href": "https://www.tumi.ae/collections/golf"
   },
   { "hreflang": "en-AT", "href": "https://at.tumi.com/en/bags/tumi-sport/" },
   { "hreflang": "en-AU", "href": "https://www.tumi.com.au/bags/tumi-sport/" },
@@ -46,10 +42,6 @@
     "href": "https://tumi.in/collections/collection-golfbags/"
   },
   { "hreflang": "en-IT", "href": "https://it.tumi.com/en/bags/tumi-sport/" },
-  {
-    "hreflang": "en-KW",
-    "href": "https://www.tumi.com.kw/collections/golf-collection"
-  },
   { "hreflang": "en-LU", "href": "https://lu.tumi.com/en/bags/tumi-sport/" },
   {
     "hreflang": "en-MO",
@@ -75,9 +67,7 @@
   { "hreflang": "en-SK", "href": "https://sk.tumi.com/en/bags/tumi-sport/" },
   { "hreflang": "en-TH", "href": "https://www.tumi.co.th/en/bags/tumi-sport/" },
   { "hreflang": "en-us", "href": "https://www.tumi.com/c/bags/tumi-sport/" },
-  { "hreflang": "es-cl", "href": "X" },
   { "hreflang": "es-ES", "href": "https://es.tumi.com/bolsas/tumi-sport/" },
-  { "hreflang": "es-mx", "href": "X" },
   { "hreflang": "fr-BE", "href": "https://be.tumi.com/fr/sacs/tumi-sport/" },
   { "hreflang": "fr-ca", "href": "https://ca.tumi.com/fr/c/bags/tumi-sport/" },
   { "hreflang": "fr-CH", "href": "https://ch.tumi.com/fr/sacs/tumi-sport/" },
